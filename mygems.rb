@@ -5,6 +5,9 @@ gems = %q{
 
   rails
 
+  yard
+  yard-doc-core
+
   pry
   pry-coolline
   pry-debugger
