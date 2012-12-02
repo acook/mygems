@@ -16,4 +16,4 @@ gems = %q{
   pry-stack_explorer
 }.gsub "\n", ' '
 
-`gem install #{gem}`
+system "gem install #{gems}"
